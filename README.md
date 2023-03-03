@@ -1,4 +1,7 @@
 # Test
+
+Solución desarrollada en .NET Framework 4.7.2
+
 Prueba Técnica
 
 # Screens de ejecución
